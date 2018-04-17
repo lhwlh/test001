@@ -1,3 +1,4 @@
 num = 1
 num2 =2
-num3 = 3
+num3 = 300
+num4 = 20
